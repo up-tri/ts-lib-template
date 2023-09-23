@@ -1,4 +1,12 @@
 /node_modules
 /coverage
 /dist
+/sample/*
 *.tsbuildinfo
+
+!*.gitkeep
+
+/demo*
+
+/yarn-error*.log
+/types
